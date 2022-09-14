@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-	char nm = "Daniel";
+	char nm = "Samuel";
 
 	while (*nm)
 	{
